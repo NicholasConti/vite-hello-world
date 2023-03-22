@@ -15,7 +15,7 @@ export default {
       <HeaderComponent></HeaderComponent>
     </header>
     <main>
-      <Main></Main>
+      <AppHero></AppHero>
     </main>
   </div>
 </template>
