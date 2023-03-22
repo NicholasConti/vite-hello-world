@@ -1,10 +1,10 @@
 <script>
 import HeaderComponent from './components/HeaderComponent.vue';
-import Main from './components/Main.vue';
+import AppHero from './components/AppHero.vue';
 export default {
   components: {
     HeaderComponent,
-    Main
+    AppHero
   }
 }
 </script>
